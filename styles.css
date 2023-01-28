@@ -168,7 +168,7 @@ nav ul li a:hover::after{
     flex-wrap: wrap;
 
 }
-.about-col-1{
+.about-col-1 p{
     background-image:url(Images/user.jpg);
     flex-basis: 35%;
     align-content:center;
