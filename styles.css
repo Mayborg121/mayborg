@@ -168,12 +168,8 @@ nav ul li a:hover::after{
     flex-wrap: wrap;
 
 }
-
 .about-col-1{
-    flex-basis: 35%; /*width of column*/
-
-}
-.about-col-1{
+    flex-basis: 35%;
     background-image:url(Images/user.jpg);
     width: 100%;
     border-radius: 15px;
