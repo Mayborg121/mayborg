@@ -173,7 +173,8 @@ nav ul li a:hover::after{
     flex-basis: 35%; /*width of column*/
 
 }
-.about-col-1 img{
+.about-col-1{
+    background-image:url(Images/user.png);
     width: 100%;
     border-radius: 15px;
 }
