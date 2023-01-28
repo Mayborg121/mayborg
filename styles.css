@@ -168,10 +168,11 @@ nav ul li a:hover::after{
     flex-wrap: wrap;
 
 }
-.about-col-1 img{
+.about-col-1{
     flex-basis: 35%; /*width of column*/
-    width: 400px;
-    height: auto;
+}
+.about-col-1 img{
+    width: 100%;
     border-radius: 15px;
 }
 .about-col-2{
