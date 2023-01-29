@@ -1,5 +1,11 @@
 # mayborg
 Portfolio Webpage 29thJan2023
 visit:
+
 https://mayborg121.github.io/mayborg
-https://github.com/Mayborg121/mayborg/blob/500f56df8b9d6396f6fab2a0b30cdd6e3f8083a9/snapshot.jpeg
+
+![snapshot](https://user-images.githubusercontent.com/72288591/215305197-118a521c-c9ff-4962-83eb-482bf5c23926.jpeg)
+
+visit:
+
+https://mayborg121.github.io/mayborg
